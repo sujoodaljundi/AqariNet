@@ -1,2 +1,0 @@
-# AqariNet
-AqariNet
